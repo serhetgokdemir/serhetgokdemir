@@ -1,0 +1,16 @@
+[
+    {
+        "id": "machine-learning",
+        "title": "Introduction to Machine Learning",
+        "date": "2025-03-05",
+        "author": "Serhet Gökdemir",
+        "content": "Machine Learning is an exciting field of AI that allows computers to learn from data"
+    },
+    {
+        "id": "deneme",
+        "title": "Blog Denemesi",
+        "date": "2025-03-05",
+        "author": "Serhet Gökdemir",
+        "content": "Bu bir blog denemesidir"
+    }
+]

@@ -58,21 +58,6 @@ html {
     line-height: 1.5;
 }
 
-/*
-.profile-pic {
-    width: 150px;
-    height: 150px;
-    border-radius: 50%;
-    object-fit: cover;
-    margin-bottom: 20px;
-    border: 6px solid #000000;
-    transition: border-color 1s ease;
-}
-
-.profile-pic:hover {
-    border-color: darkcyan;
-}
-*/
 h1 {
     color: #000000;
     margin-bottom: 10px;
