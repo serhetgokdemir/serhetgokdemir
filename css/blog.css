@@ -23,6 +23,7 @@ html, body {
     position: fixed;
     width: 100%;
     top: 0;
+    left: 0;
     z-index: 1000;
     border: 1.5px solid black;
 }
@@ -124,4 +125,18 @@ html, body {
 
 a{
     text-decoration: none;
+}
+
+@media (max-width: 768px) {
+    .container-wrapper {
+        flex-direction: column;
+        padding: 0;
+        margin-top: 100px;
+    }
+    
+    .blog-post {
+        width: 95%;
+        padding-left: 5px; 
+        padding-right: 5px;
+    }
 }
