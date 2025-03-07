@@ -28,6 +28,13 @@ html {
     top: 0px;
     z-index: 1000;
     border: 1.5px solid black;
+    overflow-x: auto;
+    -ms-overflow-style: none; /* IE ve Edge */
+    scrollbar-width: none; /* Firefox */
+}
+
+.navbar::-webkit-scrollbar {
+    display: none; /* Chrome ve Safari */
 }
 
 .navbar a {
